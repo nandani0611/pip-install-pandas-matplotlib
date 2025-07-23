@@ -1,4 +1,4 @@
-# pip-install-pandas-matplotlib
+# Data Analysis on CSV Files
 # 📊 Sales Data Analysis with Pandas
 
 This project performs basic data analysis on a CSV file containing sales data using Python, Pandas, and Matplotlib. It is part of the Python Developer Internship program at BroskiesHub.
